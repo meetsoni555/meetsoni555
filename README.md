@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://github.com/meetsoni555/meetsoni555/blob/main/Mav(2).png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/meetsoni555/meetsoni555/blob/main/Mav(3).png?raw=true" alt="Banner" width="100%">
 </p>
 
 ---
