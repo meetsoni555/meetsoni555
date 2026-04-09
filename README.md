@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://count.getloli.com/@meetsoni555">
-  <img src="https://count.getloli.com/@meetsoni555?name=meetsoni555&theme=original-new&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" width="1000" alt="meetsoni555">
+  <img src="https://count.getloli.com/@meetsoni555?name=meetsoni555&theme=original-new&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" width="800" alt="meetsoni555">
 </a>
 
 ---
