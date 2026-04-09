@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<p align="center">
+
   <a href="https://getloli.com">
     <img src="https://getloli.com?name=meetsoni555&theme=original-new&padding=7&offset=0&align=top&scale=3&pixelated=1&darkmode=auto" width="800" alt="meetsoni555">
   </a>
-</p>
+
 
 ---
 
