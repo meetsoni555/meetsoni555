@@ -1,6 +1,9 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/meetsoni555/meetsoni555/blob/main/Mav(1).png?raw=true" alt="Banner" width="100%">
+</p>
 
-
+---
 <p align="center" >
 <a href="https://count.getloli.com/@meetsoni555">
   <img src="https://count.getloli.com/@meetsoni555?name=meetsoni555&theme=original-new&padding=5&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" width="550" alt="meetsoni555">
