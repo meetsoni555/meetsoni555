@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Visitor Count](https://anime-counter-production.up.railway.app/@meetsoni555)
 <!--
 **meetsoni555/meetsoni555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
