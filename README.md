@@ -11,7 +11,7 @@
 </p>
 ---
 
-[![meet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meetsoni555&bg_color=ffffff&theme=github-compact&point=ffffff&area=true&area_color=282828&radius=16&custom_title=My%20Contributions&hide_border=true&line=000000&border_color=000000&title_color=000000&color=000000)](https://github.com/meetsoni555/github-readme-activity-graph)
+[![meet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meetsoni555&bg_color=0D1218&theme=github-compact&point=ffffff&area=true&area_color=f23212&radius=16&custom_title=My%20Contributions&hide_border=true&line=ffffff&border_color=000000&title_color=ffffff&color=ffffff)](https://github.com/meetsoni555/github-readme-activity-graph)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=meetsoni555&margin-h=15)](https://github.com/meetsoni555/github-profile-trophy)
