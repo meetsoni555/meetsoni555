@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://count.getloli.com/@meetsoni555">
-  <img src="https://count.getloli.com/@meetsoni555?name=meetsoni555&theme=original-new&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto" width="400" alt="meetsoni555">
+  <img src="https://count.getloli.com/@meetsoni555?name=meetsoni555&theme=original-new&padding=7&offset=0&align=top&scale=3&pixelated=1&darkmode=auto" width="400" alt="meetsoni555">
 </a>
 
 [![meet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meetsoni555&bg_color=ffffff&theme=github-compact&point=ffffff&area=true&area_color=282828&radius=16&custom_title=My%20Contributions&hide_border=true&line=000000&border_color=000000&title_color=000000&color=000000)](https://github.com/meetsoni555/github-readme-activity-graph)
