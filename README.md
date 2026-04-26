@@ -79,10 +79,14 @@
 
 
 ---
+### Just a lonely cracked programmer
+  
+<img width="1580" height="725" alt="Cherry-Blossom" src="https://github.com/user-attachments/assets/d5ce2141-0b2a-4cd4-9906-231d3c8a466c" />
+
+---
+
 ### You can connect with me through these !
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 
