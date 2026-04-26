@@ -53,6 +53,27 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/></a>
 </p>
 
+### Most used languages
+---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=meetsoni555&show_icons=true&locale=en&layout=compact" />
+</p>
+
+
+### Statistics
+---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=meetsoni555&show_icons=true&locale=en" />
+</p>
+
+
+
+### Streak!!
+---
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meetsoni555&" />
+</p>    
+
 
 ---
 ### You can connect with me through these !
